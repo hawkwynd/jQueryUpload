@@ -1,1 +1,9 @@
-This directory should be made writeable to allow uploads 0777
+
+This directory should be made writeable to allow uploads 0777.
+Even though the script unlinks the file immediately after upload,
+we still need a directory location to put the file, even if it's 
+life is immediately snuffed out by the giant anvil landing on it's head.
+
+-- sfleming
+
+
